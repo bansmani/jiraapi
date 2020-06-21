@@ -73,8 +73,8 @@ class JiraProvider(
 fun main() {
     val client = JiraProvider(
         "https://datafirsttech.atlassian.net",
-        "m_bansal10@yahoo.com",
-        "nviDdThmi2eYZDYsTT1NC9C3"
+        "",
+        ""
     )
 
     //quick testing all get method
